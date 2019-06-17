@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuzhouxxdong/hexo-theme-dxx.git"
+    "url": "git+https://github.com/shendadi/hexo-theme-dxx.git"
   },
   "keywords": [
     "hexo",
     "simple",
     "beautiful"
   ],
-  "author": "fuzhouxxdong",
+  "author": "shendadi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fuzhouxxdong/hexo-theme-dxx/issues"
+    "url": "https://github.com/shendadi/hexo-theme-dxx/issues"
   },
-  "homepage": "https://github.com/fuzhouxxdong/hexo-theme-dxx#readme",
+  "homepage": "https://github.com/shendadi/hexo-theme-dxx#readme",
   "devDependencies": {
   },
   "dependencies": {
