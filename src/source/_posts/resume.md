@@ -1,3 +1,4 @@
+简历
 # 联系方式
 - 手机：
 - Email：vvvxiaoqi@gmail.com
@@ -49,3 +50,11 @@
 1. 搜狐公众平台管理后台（Web）
 2. 搜狐公共平台个人页（Web+H5）
 3. 病例帮APP（H5）
+
+### 作品展示
+[作品展示1](https://bigdady.xyz/images/asset.jpg)
+[作品展示2](https://bigdady.xyz/images/trip-pc.jpg)
+[作品展示3](https://bigdady.xyz/images/trip-m.jpg)
+[作品展示4](https://bigdady.xyz/images/kpi.jpg)
+[作品展示5](https://bigdady.xyz/images/guan.jpg)
+[作品展示6](https://bigdady.xyz/images/guan-m.jpg)
