@@ -7,8 +7,8 @@ About: /about
 
 language: en
 
-author: fuzhouxx Dong
-description: good good study day day up
+author:
+description:
 
 disqus:
   enable: false
